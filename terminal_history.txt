@@ -1,0 +1,10 @@
+  238  git add.
+  239  git add .
+  240  git commit -m "commit"
+  241  git push origin main
+  242  cd desktop
+  243  exit
+  244  cd desktop
+  245  git clone https://github.com/avangelinac/financial_planning_tools.git
+  246  cd financial_planning_tools
+  247  history 10 > terminal_history.txt
